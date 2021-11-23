@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '31735'
     url: http://www.gutenberg.org/2009/agents/31735
     wikipedia: https://en.wikipedia.org/wiki/Arthur_E._Becher
+covers:
+- cover_type: archival
+  image_path: 66754-h/images/cover.jpg
 creator:
   author:
     agent_name: Lynde, Francis
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2626
     wikipedia: https://en.wikipedia.org/wiki/Francis_Lynde
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66754#David-Vallory
 gutenberg_issued: '2021-11-16'
 identifiers:
   gutenberg: '66754'
